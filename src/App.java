@@ -8,8 +8,7 @@ public class App {
     private static double areaDoRetangulo;
 
     public static void main(String[] args) throws Exception {
-
-
+        //teste
         lerNumero();
         imprimir();
     }
