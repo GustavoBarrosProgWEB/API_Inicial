@@ -18,6 +18,7 @@ public class App {
 
         double A, B, C;
         double pi = 3.14159;
+        
         A = leitor.nextDouble();
         B = leitor.nextDouble();
         C = leitor.nextDouble();
