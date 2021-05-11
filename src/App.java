@@ -23,7 +23,7 @@ public class App {
         B = leitor.nextDouble();
         C = leitor.nextDouble();
         
-        // Colocar uma função
+        // Colocar uma função de verdade e fica de boa
         areaTrianguloRetangulo = (A * C) / 2.0;
 
         areaDocirculo = pi * Math.pow(C, 2.0);
