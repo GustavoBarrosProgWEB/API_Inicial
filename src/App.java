@@ -18,11 +18,12 @@ public class App {
 
         double A, B, C;
         double pi = 3.14159;
-        
+
         A = leitor.nextDouble();
         B = leitor.nextDouble();
         C = leitor.nextDouble();
-
+        
+        // Colocar uma função
         areaTrianguloRetangulo = (A * C) / 2.0;
 
         areaDocirculo = pi * Math.pow(C, 2.0);
